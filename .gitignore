@@ -1,6 +1,5 @@
 node_modules
 .next
-config.js
 dest
 .vscode
 local-code
